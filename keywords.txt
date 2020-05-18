@@ -1,0 +1,13 @@
+# Macros
+
+
+# Free functions
+
+# Methods
+begin	KEYWORD2
+halt	KEYWORD2
+setDirection	KEYWORD2
+setSpeed	KEYWORD2
+
+# Type names
+L293Drv	KEYWORD1	DATA_TYPE
